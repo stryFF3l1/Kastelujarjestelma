@@ -18,3 +18,7 @@ ssh -X pi@85.29.83.103 -p xxxx
 ----
 
 ## Arto public IP: 77.223.47.141:22
+
+# mittaus tuloksia alustava
+870 kostea multa
+780 ja pieneni koko ajan kosteahkossa mullassa
