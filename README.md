@@ -21,4 +21,5 @@ ssh -X pi@85.29.83.103 -p xxxx
 
 # mittaus tuloksia alustava
 870 kostea multa
-780 ja pieneni koko ajan kosteahkossa mullassa
+
+kuivahko multa 780 ja pieneni koko ajan kosteahkossa mullassa
