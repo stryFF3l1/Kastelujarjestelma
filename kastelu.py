@@ -22,9 +22,9 @@ def tweet():
             raise Exception('VIRHE!!!')
 
         read_serial=ser.readline()
-        status="#" + str(laskuri) + " Kosteustaso " + str(read_serial)
+        status = "#" + str(laskuri) + " Mullan kosteustaso " + str(read_serial.decode('utf-8'))
         api.update_status(status)
-        print(laskuri, "Kosteustaso", read_serial)
+        print(status)
         laskuri += 1
         sleep(15)
 
