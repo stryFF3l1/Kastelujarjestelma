@@ -10,10 +10,7 @@ Raspi informoi tapahtumia ulkomaailmaan Twitterin REST-API rajapinnalla.
 #### VNC
 TODO
 #### SSH
-```bash
-ssh -X pi@85.29.83.103 -p xxxx
-```
-**Huom! Vaatii xserverin lokaalille koneelle.**
+TODO
 
 ----
 
